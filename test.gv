@@ -1,0 +1,10 @@
+digraph G{
+0[label=START];
+1[label=R];
+0 -> 1
+1[label=R];
+2[label=F];
+1 -> 2
+3[label=R];
+1 -> 3
+}
